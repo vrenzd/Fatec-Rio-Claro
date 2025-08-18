@@ -3,15 +3,6 @@
 ## Descrição 
 Este repositório contém exercícios e experimentos realizados durante minha jornada de aprendizado em Python. O objetivo é aprimorar habilidades, explorar conceitos e evoluir constantemente na programação.
 
-## Estrutura 
-```
-/aprendizado-python
-│── exercícios/    # Resoluções de desafios e práticas
-│── projetos/      # Pequenos projetos para aplicar conhecimentos
-│── notas/         # Anotações sobre conceitos importantes
-│── README.md      # Este arquivo explicativo
-```
-
 ## Objetivo 
 - Praticar conceitos fundamentais e avançados de Python.
 - Resolver exercícios para consolidar o aprendizado.
