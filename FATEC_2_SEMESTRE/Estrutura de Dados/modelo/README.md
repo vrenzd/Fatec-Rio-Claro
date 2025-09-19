@@ -70,7 +70,3 @@ python vestibular_fatec.py
 
 
 * **Victor Renzzo** - *Desenvolvedor* - [vrenzd](https://github.com/vrenzd)
-
-## Licença
-
-Este projeto está sob a licença MIT - veja o arquivo LICENSE.md para detalhes.
